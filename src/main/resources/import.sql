@@ -1,0 +1,3 @@
+INSERT INTO BOOK (id, title, isbn, author, genre) VALUES (1, 'Special Book', '3-598-21500-2978-3-598-21500-19783598215001', 'Hashim Ali', 'Fiction');
+INSERT INTO BOOK (id, title, isbn, author, genre) VALUES (2, 'Special Book', '3-598-21501-0978-3-598-21501-89783598215018', 'Hashim Ali', 'Fiction');
+INSERT INTO BOOK (id, title, isbn, author, genre) VALUES (3, 'Special Book', '3-598-21502-9978-3-598-21502-59783598215025', 'Hashim Ali', 'Fiction');
